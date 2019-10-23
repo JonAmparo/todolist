@@ -12,7 +12,8 @@ function About() {
 }
 
 const textCenter = {
-  textAlign: "center"
+  textAlign: "center",
+  color: "white"
 };
 
 export default About;
